@@ -1,6 +1,3 @@
-//Dillon Driscoll
-//October 15, 2016
-//Array Expander
 
 #include <iostream>
 int *arrayExpander(int arr[], int size);
